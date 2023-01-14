@@ -1,0 +1,17 @@
+WORKCLASS,GENDER,HOURS_PER_WEEK,INCOME
+Self-emp-inc,Male,70,>50K
+Private,Male,40,<=50K
+Private,Male,50,<=50K
+Local-gov,Female,40,>50K
+Private,Male,40,<=50K
+Private,Male,40,<=50K
+Federal-gov,Female,40,<=50K
+State-gov,Male,38,<=50K
+Private,Male,40,<=50K
+Private,Female,35,<=50K
+Private,Female,40,<=50K
+Private,Male,50,>50K
+Federal-gov,Male,40,<=50K
+Self-emp-not-inc,Male,45,<=50K
+Private,Male,45,<=50K
+Private,Female,40,<=50K
